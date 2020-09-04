@@ -1,0 +1,440 @@
+C:\TDM-GCC-64\dslab>gcc doublelinkedlist.c -o doublelinkedlist
+
+C:\TDM-GCC-64\dslab>doublelinkedlist
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+1
+ENTER THE NUMBER OF NODES
+5
+ENTER CURRENT NODE DATA
+1
+ENTER CURRENT NODE DATA
+2
+ENTER CURRENT NODE DATA
+3
+ENTER CURRENT NODE DATA
+4
+ENTER CURRENT NODE DATA
+5
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+13
+elements of the DLL are
+5.000000<->4.000000<->3.000000<->2.000000<->1.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+2
+ENTER CURRENT NODE DATA
+43
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+43.000000<->1.000000<->2.000000<->3.000000<->4.000000<->5.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+3
+ENTER CURRENT NODE DATA
+3
+enter position5
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+43.000000<->1.000000<->2.000000<->3.000000<->3.000000<->4.000000<->5.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+4
+ENTER CURRENT NODE DATA
+54
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+43.000000<->1.000000<->2.000000<->3.000000<->3.000000<->4.000000<->5.000000<->54.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+5
+ENTER CURRENT NODE DATA
+76
+Enter the data before which node we need to insert
+5
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+43.000000<->1.000000<->2.000000<->3.000000<->3.000000<->4.000000<->76.000000<->5.000000<->54.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+6
+ENTER CURRENT NODE DATA
+89
+enter the data after which node we need to insert76
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+43.000000<->1.000000<->2.000000<->3.000000<->3.000000<->4.000000<->76.000000<->89.000000<->5.000000<->54.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+8
+Deleted element 54.000000program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+7
+Deleted element 43.000000program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+1.000000<->2.000000<->3.000000<->3.000000<->4.000000<->76.000000<->89.000000<->5.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+10
+enter the data  of a node to perforn delete before4
+delete a element 3.000000program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+14
+enter the value to be searched
+76
+element not found at 5
+element not found
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+15
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+1.000000<->2.000000<->3.000000<->3.000000<->5.000000<->76.000000<->89.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+11
+enter the data  of a node to perforn delete after5
+delete a element 76.000000
+program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
+12
+elements of DLL are
+1.000000<->2.000000<->3.000000<->3.000000<->5.000000<->89.000000<->program for single linked list
+1-create
+2-insert at begin
+3-insert at position
+4-insert at end
+5-insert before
+6-insert after
+7-delete at begin
+8-delete at end
+9-delete at pos
+10-delete before
+11-delete after
+12-display
+13-display in reverse
+14-search
+15-sort
+enter your choice
