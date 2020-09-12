@@ -1,0 +1,95 @@
+C:\TDM-GCC-64\dslab>gcc stack.c -o stack
+
+C:\TDM-GCC-64\dslab>stack
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+enter data to push
+40
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+enter data to push
+50
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+enter data to push
+60
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+enter data to push
+70
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+enter data to push
+80
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+1
+stack overflow
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+2
+deleted element is 80
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+3
+70 60 50 40
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
+4
+top most element on the stack is 70
+
+1-push
+2-pop
+3-display
+4-peek
+5-exit
+enter ur choice
