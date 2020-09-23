@@ -1,0 +1,8 @@
+Problem Statement: Write a C program that implement Queue and its operations using 
+A. Arrays  
+B. Pointers
+Operations
+i) Enqueue  
+ii) Dequeue    
+iii)Is_Queue_Full   
+iv)Is_Queue_Empty
