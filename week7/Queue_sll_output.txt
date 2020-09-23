@@ -1,0 +1,88 @@
+C:\TDM-GCC-64\dslab>gcc Queue_sll.c -o Queue_sll
+ 
+C:\TDM-GCC-64\dslab>Queue_sll
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+23
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+34
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+45
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+67
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+89
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+90
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+1
+Enter the value to insert
+24
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+2
+deleted element is 23
+ 
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+3
+34->45->67->89->90->24->
+1-enqueue
+2-dequeue
+3-display
+4-exit
+enter your choice
+4
