@@ -1,0 +1,159 @@
+
+C:\TDM-GCC-64\dslab>gcc circular_linked_list.c -o circular_linked_list
+
+C:\TDM-GCC-64\dslab>circular_linked_list
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice1
+enter cur data15
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice1
+enter cur data27
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice1
+enter cur data98
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice1
+enter cur data89
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice1
+enter cur data56
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice7
+15->27->98->89->561-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice2
+enter cur data18
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice7
+18->15->27->98->89->561-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice3
+enter position of insertion3
+enter cur data45
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice7
+18->15->45->27->98->89->561-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice4
+deleted element 181-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice7
+15->45->27->98->89->561-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice3
+enter position of insertion3
+enter cur data54
+1-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice6
+enter position of deletion3
+deleted element 541-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice7
+15->45->27->98->89->561-create
+2-insert at begin
+3-insert at pos
+4-delete at begin
+5-delete at end
+6-delete at pos
+7-traversal
+8-exit
+enter yr choice8
